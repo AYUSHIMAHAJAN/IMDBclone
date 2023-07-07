@@ -1,3 +1,8 @@
+
+![ss](https://github.com/AYUSHIMAHAJAN/IMDBclone/assets/96366141/ae6330be-51a6-4ea7-be4e-bbd910d8bc95)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
