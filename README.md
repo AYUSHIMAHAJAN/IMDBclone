@@ -21,7 +21,9 @@ Then you can navigate to Popular Movies Section
 Upcoming section contains the detailed information about the movies coming in upcoming months
 ![image](https://github.com/AYUSHIMAHAJAN/IMDBclone/assets/96366141/f2b8155d-86c6-4890-87f4-796cae2c1ad6)
 
-
+Features to be Added:
+Search Option
+Play Option
 
 
 
